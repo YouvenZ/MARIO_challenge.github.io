@@ -28,7 +28,7 @@ Or, [generate graphs, charts](docs/compose/graphs-charts-tables/#show-a-pie-doug
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/artist.jpg)
+![diy](./images/artist.jpg)
 {{< /column >}}
 {{< /block >}}
 
