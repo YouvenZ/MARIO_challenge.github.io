@@ -5,6 +5,9 @@ weight = 15
 
 ## Images
 
+Just to see is there is a change
+
+
 ### Image figure captions
 
 You have the option of adding captions to images in blog posts and automatically prepending a desired string such as "Figure N" to the alt text. This is controlled via two global settings.
@@ -37,6 +40,10 @@ To make a blog image inline, append `:inline` to its alt text. Typically, inline
 
 ![some alt text:inline](someOtherImageUrl)
 ```
+
+![Inline image](../../../images/boy.jpg)
+
+Picture of some boy
 
 ![Inline image example](../../../images/clarity/image-inline.png)
 
