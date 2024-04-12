@@ -31,3 +31,9 @@ Or, [generate graphs, charts](docs/compose/graphs-charts-tables/#show-a-pie-doug
 ![diy](../../../images/clarity/image-figure.png)
 {{< /column >}}
 {{< /block >}}
+
+
+## Instruction 
+
+
+For more detail of how to submit you should visit this link ==>
