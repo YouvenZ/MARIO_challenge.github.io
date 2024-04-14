@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Compose Docs</title>
-    <link>http://localhost:34107/categories/</link>
-    <description>Recent content in Categories on Compose Docs</description>
+    <title>Categories on MICCAI 2024</title>
+    <link>//localhost:42769/categories/</link>
+    <description>Recent content in Categories on MICCAI 2024</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Apr 2024 15:06:25 +0200</lastBuildDate>
-    <atom:link href="http://localhost:34107/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:42769/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>http://localhost:34107/categories/development/</link>
+      <link>//localhost:42769/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34107/categories/development/</guid>
+      <guid>//localhost:42769/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>http://localhost:34107/categories/golang/</link>
+      <link>//localhost:42769/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34107/categories/golang/</guid>
+      <guid>//localhost:42769/categories/golang/</guid>
       <description></description>
     </item>
   </channel>

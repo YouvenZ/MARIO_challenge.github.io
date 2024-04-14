@@ -2,136 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:34107/about/</loc>
+    <loc>//localhost:42769/about/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/compose/</loc>
+    <loc>//localhost:42769/docs/compose/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/tutorials/example/</loc>
+    <loc>//localhost:42769/tutorials/example/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/</loc>
+    <loc>//localhost:42769/docs/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/tutorials/</loc>
+    <loc>//localhost:42769/tutorials/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/compose/install-theme/</loc>
+    <loc>//localhost:42769/docs/compose/install-theme/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/compose/use-tina-cms/</loc>
+    <loc>//localhost:42769/docs/compose/first_page_mario/</loc>
+  </url><url>
+    <loc>//localhost:42769/docs/compose/use-tina-cms/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/compose/organize-content/</loc>
+    <loc>//localhost:42769/docs/compose/organize-content/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/compose/shortcodes/</loc>
+    <loc>//localhost:42769/docs/compose/shortcodes/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/compose/search/</loc>
+    <loc>//localhost:42769/docs/compose/search/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/compose/shortcodes-example/</loc>
+    <loc>//localhost:42769/docs/compose/shortcodes-example/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/compose/mermaid/</loc>
+    <loc>//localhost:42769/docs/compose/mermaid/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/tutorials/example/mermaid/</loc>
+    <loc>//localhost:42769/tutorials/example/mermaid/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/compose/graphs-charts-tables/</loc>
+    <loc>//localhost:42769/docs/compose/graphs-charts-tables/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/clarity/</loc>
+    <loc>//localhost:42769/docs/clarity/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/compose/customize/</loc>
+    <loc>//localhost:42769/docs/compose/customize/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/clarity/getting-started/</loc>
+    <loc>//localhost:42769/docs/clarity/getting-started/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/compose/github-actions/</loc>
+    <loc>//localhost:42769/docs/compose/github-actions/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/clarity/features/</loc>
+    <loc>//localhost:42769/docs/clarity/features/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/clarity/customize/</loc>
+    <loc>//localhost:42769/docs/clarity/customize/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/clarity/images/</loc>
+    <loc>//localhost:42769/docs/clarity/images/</loc>
     <lastmod>2024-04-12T16:03:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/clarity/blogging/</loc>
+    <loc>//localhost:42769/docs/clarity/blogging/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/clarity/syntax-highlighting/</loc>
+    <loc>//localhost:42769/docs/clarity/syntax-highlighting/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/docs/clarity/theme-overrides/</loc>
+    <loc>//localhost:42769/docs/clarity/theme-overrides/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/tags/emoji/</loc>
+    <loc>//localhost:42769/tags/emoji/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/blog/emoji-support/</loc>
+    <loc>//localhost:42769/blog/emoji-support/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/tags/</loc>
+    <loc>//localhost:42769/tags/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/blog/creating-a-new-theme/</loc>
+    <loc>//localhost:42769/blog/creating-a-new-theme/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/about/article/</loc>
+    <loc>//localhost:42769/about/article/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/blog/goisforlovers/</loc>
+    <loc>//localhost:42769/blog/goisforlovers/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/categories/</loc>
+    <loc>//localhost:42769/categories/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/tags/development/</loc>
+    <loc>//localhost:42769/tags/development/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/categories/development/</loc>
+    <loc>//localhost:42769/categories/development/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/blog/hugoisforlovers/</loc>
+    <loc>//localhost:42769/blog/hugoisforlovers/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/tags/go/</loc>
+    <loc>//localhost:42769/tags/go/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/tags/golang/</loc>
+    <loc>//localhost:42769/tags/golang/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/categories/golang/</loc>
+    <loc>//localhost:42769/categories/golang/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/tags/hugo/</loc>
+    <loc>//localhost:42769/tags/hugo/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/tags/templates/</loc>
+    <loc>//localhost:42769/tags/templates/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/tags/themes/</loc>
+    <loc>//localhost:42769/tags/themes/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/blog/migrate-from-jekyll/</loc>
+    <loc>//localhost:42769/blog/migrate-from-jekyll/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/blog/</loc>
+    <loc>//localhost:42769/blog/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/</loc>
-    <lastmod>2024-04-12T16:36:05+02:00</lastmod>
+    <loc>//localhost:42769/</loc>
+    <lastmod>2024-04-12T16:40:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:34107/search/</loc>
+    <loc>//localhost:42769/search/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url>
 </urlset>
