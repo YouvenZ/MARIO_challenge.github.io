@@ -8,32 +8,11 @@
     <language>en</language>
     <atom:link href="//localhost:1313/docs/compose/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>🏆 Prices</title>
-      <link>//localhost:1313/docs/compose/prices/</link>
+      <title>🗂️ Data</title>
+      <link>//localhost:1313/docs/compose/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/compose/prices/</guid>
-      <description>The challenges offer the following The top ten performing teams will be invited to participate in a challenge paper. The top-5 teams can have up to 5 co-authors each, while the 6th to 10th place teams can have up to 3 co-authors each. In the paper, we will publish a substantial summary of the challenge results. Thank to the initiative of the BASIRA lab and in collaboration with MICCAI PRIME Workshop.</description>
-    </item>
-    <item>
-      <title>👥 Organizers</title>
-      <link>//localhost:1313/docs/compose/organizer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/compose/organizer/</guid>
-      <description>(Alphabetical order) Team Organizers Technical Alireza Rezaei 1 2&#xA;Gwenolé Quellec 2&#xA;Mathieu Lamard 1 2&#xA;Mostafa El Habib Daho 1 2&#xA;Pierre-Henri Conze 3&#xA;Rachid Zeghlache 1 2&#xA;Medical Anas-Alexis Benyoussef 4&#xA;Béatrice Cochener 1 2 4&#xA;Thomas Monfort 4&#xA;Team Organizers Technical Leila Ryma Lazouni 5 Mohammed El Amine Lazouni 5 Zineb Aziza Elaouaber 5 6 Medical Sofiane Zehar 6&#xA;Karim Boukli Hacene 6&#xA;Univ Bretagne Occidentale, Brest, F-29200 France</description>
-    </item>
-    <item>
-      <title>📜 Rules</title>
-      <link>//localhost:1313/docs/compose/rules/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/compose/rules/</guid>
-      <description>Participation policy&#xA;There several policies that participant are required to consider in order to be included in the competition:&#xA;All final submissions should be in the form of docker containers and follow the provided template provided by the organizers to be tested successfully. Only fully automated methods are acceptable for participation in this challenge as the submission is in the form of docker containers. It is not possible to submit manual annotations or interactive methods.</description>
-    </item>
-    <item>
-      <title>Task 2</title>
-      <link>//localhost:1313/docs/compose/task2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/compose/task2/</guid>
-      <description>The second task focuses on 2D slices level. The goal is to predict the future evolution within 3 months with close monitoring of patients that are enrolled in an anti-VEGF treatments plan.&#xA;To participate to the challenge register using this link</description>
+      <guid>//localhost:1313/docs/compose/data/</guid>
+      <description>Data source(s) characteristics Imaging data was acquired with a Spectralis OCT device (Heidelberg Engineering). B-scan definition was 496x1024 pixels; the number of B-scans per C-scan was patient dependent (typically 49 B- scans). Consecutive examinations were registered using the Spectralis follow-up option. The data was exported in XML+bitmap format using the Spectralis software version 6.9.4.0. Data was collected at the Ophthalmology department of Brest University Hospital (France). All patients are followed-up for monitoring and treatment of vascular AMD.</description>
     </item>
     <item>
       <title> 🔎 Evaluation and Ranking</title>
@@ -43,6 +22,20 @@
       <description>Evaluation We will use a single metric per task to determine the performance of submitted results. To access the evaluation code that we will use in the challenge, take a look at our GitHub page. For task 1 The following metrics will be used in the leader board for both phase of task 1&#xA;F1-score, Specificity, Rk-correlation coefficient (RkC) For task 2 The following metrics will be used in the leader board for both phase of task 2</description>
     </item>
     <item>
+      <title>1️⃣🎯 Task 1</title>
+      <link>//localhost:1313/docs/compose/task1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/compose/task1/</guid>
+      <description>Two tasks will be addressed in the challenge: The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens. To participate to the challenge register using this link</description>
+    </item>
+    <item>
+      <title>2️⃣🎯 Task 2</title>
+      <link>//localhost:1313/docs/compose/task2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/compose/task2/</guid>
+      <description>The second task focuses on 2D slices level. The goal is to predict the future evolution within 3 months with close monitoring of patients that are enrolled in an anti-VEGF treatments plan.&#xA;To participate to the challenge register using this link</description>
+    </item>
+    <item>
       <title>📃 Challenge papers</title>
       <link>//localhost:1313/docs/compose/challenge_paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -50,25 +43,32 @@
       <description>Challenge papers To ensure transparency and reproducibility, we require participants to submit a brief method description alongside their final test set results. This description should follow the Springer Lecture Notes in Computer Science (LNCS) format. An Overleaf template is available template to facilitate this process.&#xA;The paper description should focus on the key steps involved in developing your submitted approach. Here are some recommended elements to include:&#xA;Introduction Method Results Link to public code repository </description>
     </item>
     <item>
-      <title>🗂️ Data</title>
-      <link>//localhost:1313/docs/compose/data/</link>
+      <title>👥 Organizers</title>
+      <link>//localhost:1313/docs/compose/organizer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/compose/data/</guid>
-      <description>Data source(s) characteristics Imaging data was acquired with a Spectralis OCT device (Heidelberg Engineering). B-scan definition was 496x1024 pixels; the number of B-scans per C-scan was patient dependent (typically 49 B- scans). Consecutive examinations were registered using the Spectralis follow-up option. The data was exported in XML+bitmap format using the Spectralis software version 6.9.4.0. Data was collected at the Ophthalmology department of Brest University Hospital (France). All patients are followed-up for monitoring and treatment of vascular AMD.</description>
+      <guid>//localhost:1313/docs/compose/organizer/</guid>
+      <description>(Alphabetical order) Team Organizers Technical Alireza Rezaei 1 2&#xA;Gwenolé Quellec 2&#xA;Mathieu Lamard 1 2&#xA;Mostafa El Habib Daho 1 2&#xA;Pierre-Henri Conze 3&#xA;Rachid Zeghlache 1 2&#xA;Medical Anas-Alexis Benyoussef 4&#xA;Béatrice Cochener 1 2 4&#xA;Thomas Monfort 4&#xA;Team Organizers Technical Leila Ryma Lazouni 5 Mohammed El Amine Lazouni 5 Zineb Aziza Elaouaber 5 6 Medical Sofiane Zehar 6&#xA;Karim Boukli Hacene 6&#xA;Univ Bretagne Occidentale, Brest, F-29200 France</description>
     </item>
     <item>
-      <title>Task 1</title>
-      <link>//localhost:1313/docs/compose/task1/</link>
+      <title>🏆 Prices</title>
+      <link>//localhost:1313/docs/compose/prices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/compose/task1/</guid>
-      <description>Two tasks will be addressed in the challenge: The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens. To participate to the challenge register using this link</description>
+      <guid>//localhost:1313/docs/compose/prices/</guid>
+      <description>The challenges offer the following awards The top ten performing teams will be invited to participate in a challenge paper. The top-5 teams can have up to 5 co-authors each, while the 6th to 10th place teams can have up to 3 co-authors each. In the paper, we will publish a substantial summary of the challenge results. Thank to the initiative of the BASIRA lab and in collaboration with MICCAI PRIME Workshop.</description>
     </item>
     <item>
-      <title>Important Dates</title>
+      <title>📜 Rules</title>
+      <link>//localhost:1313/docs/compose/rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/compose/rules/</guid>
+      <description>Participation policy&#xA;There several policies that participant are required to consider in order to be included in the competition:&#xA;All final submissions should be in the form of docker containers and follow the provided template provided by the organizers to be tested successfully. Only fully automated methods are acceptable for participation in this challenge as the submission is in the form of docker containers. It is not possible to submit manual annotations or interactive methods.</description>
+    </item>
+    <item>
+      <title>🗓 Important Dates</title>
       <link>//localhost:1313/docs/compose/important_date/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/compose/important_date/</guid>
-      <description>Important Dates The following information outlines a proposed timeline for the challenge, subject to adjustments based on the MICCAI 2024 schedule and the organizers&#39; assessment to guarantee the quality of the challenge.&#xA;Registration Period:&#xA;April 1, 2024 - July 10, 2024&#xA;Release of Training and Off-site Validation Data (Without Labels):&#xA;May 2, 2024&#xA;Off-site Result Submission Period:&#xA;May 2, 2024 - July 10, 2024&#xA;Announcement of Finalists:&#xA;July 11, 2024</description>
+      <description>The following information outlines a proposed timeline for the challenge, subject to adjustments based on the MICCAI 2024 schedule and the organizers&#39; assessment to guarantee the quality of the challenge.&#xA;Registration Period:&#xA;April 1, 2024 - July 10, 2024&#xA;Release of Training and Off-site Validation Data (Without Labels):&#xA;May 2, 2024&#xA;Off-site Result Submission Period:&#xA;May 2, 2024 - July 10, 2024&#xA;Announcement of Finalists:&#xA;July 11, 2024&#xA;Report (6-page Summary) and Docker Container Submission Period (For Finalists):</description>
     </item>
     <item>
       <title></title>
