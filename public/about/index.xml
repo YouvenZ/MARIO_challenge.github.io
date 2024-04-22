@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About&#39; Docs on MICCAI 2024</title>
-    <link>//localhost:42769/about/</link>
-    <description>Recent content in About&#39; Docs on MICCAI 2024</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>About&#39; Docs on MARIO-MICCAI 2024</title>
+    <link>//localhost:1313/about/</link>
+    <description>Recent content in About&#39; Docs on MARIO-MICCAI 2024</description>
+    <generator>Hugo 0.125.2</generator>
     <language>en</language>
-    <atom:link href="//localhost:42769/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>zefzaf</title>
-      <link>//localhost:42769/about/article/</link>
+      <link>//localhost:1313/about/article/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/about/article/</guid>
+      <guid>//localhost:1313/about/article/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&#39;t cover using CSS to style your theme.&#xA;We&#39;ll start with creating a new site with a very basic template.</description>
     </item>
   </channel>

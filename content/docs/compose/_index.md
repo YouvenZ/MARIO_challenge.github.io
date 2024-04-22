@@ -1,5 +1,5 @@
 +++
-title = "Compose Docs"
+title = "Main sections"
 weight = 1
 +++
 

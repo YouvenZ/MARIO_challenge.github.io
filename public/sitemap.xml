@@ -2,138 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:42769/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>//localhost:42769/docs/compose/</loc>
+    <loc>//localhost:1313/tutorials/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>//localhost:42769/tutorials/example/</loc>
+    <loc>//localhost:1313/tutorials/example/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>//localhost:42769/docs/</loc>
+    <loc>//localhost:1313/docs/compose/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>//localhost:42769/tutorials/</loc>
+    <loc>//localhost:1313/docs/compose/prices/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/compose/organizer/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/compose/rules/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/compose/task2/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/compose/evaluation/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/compose/challenge_paper/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/compose/data/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/compose/task1/</loc>
+  </url><url>
+    <loc>//localhost:1313/tutorials/example/mermaid/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>//localhost:42769/docs/compose/install-theme/</loc>
+    <loc>//localhost:1313/docs/clarity/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>//localhost:42769/docs/compose/first_page_mario/</loc>
+    <loc>//localhost:1313/docs/compose/important_date/</loc>
   </url><url>
-    <loc>//localhost:42769/docs/compose/use-tina-cms/</loc>
+    <loc>//localhost:1313/docs/clarity/preliminary_phase/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/clarity/final_phase/</loc>
+  </url><url>
+    <loc>//localhost:1313/about/article/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>//localhost:42769/docs/compose/organize-content/</loc>
+    <loc>//localhost:1313/docs/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>//localhost:42769/docs/compose/shortcodes/</loc>
+    <loc>//localhost:1313/docs/compose/announcement/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-04-14T14:35:26+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/search/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>//localhost:42769/docs/compose/search/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/compose/shortcodes-example/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/compose/mermaid/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/tutorials/example/mermaid/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/compose/graphs-charts-tables/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/clarity/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/compose/customize/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/clarity/getting-started/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/compose/github-actions/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/clarity/features/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/clarity/customize/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/clarity/images/</loc>
-    <lastmod>2024-04-12T16:03:29+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/clarity/blogging/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/clarity/syntax-highlighting/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/docs/clarity/theme-overrides/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/tags/emoji/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/blog/emoji-support/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/tags/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/blog/creating-a-new-theme/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/about/article/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/blog/goisforlovers/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/categories/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/tags/development/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/categories/development/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/blog/hugoisforlovers/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/tags/go/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/tags/golang/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/categories/golang/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/tags/hugo/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/tags/templates/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/tags/themes/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/blog/migrate-from-jekyll/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/blog/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/</loc>
-    <lastmod>2024-04-12T16:40:48+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:42769/search/</loc>
-    <lastmod>2024-04-12T15:06:25+02:00</lastmod>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

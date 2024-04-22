@@ -1,88 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Compose Docs on MICCAI 2024</title>
-    <link>//localhost:42769/docs/compose/</link>
-    <description>Recent content in Compose Docs on MICCAI 2024</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Main sections on MARIO-MICCAI 2024</title>
+    <link>//localhost:1313/docs/compose/</link>
+    <description>Recent content in Main sections on MARIO-MICCAI 2024</description>
+    <generator>Hugo 0.125.2</generator>
     <language>en</language>
-    <atom:link href="//localhost:42769/docs/compose/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/docs/compose/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Install theme</title>
-      <link>//localhost:42769/docs/compose/install-theme/</link>
+      <title>🏆 Prices</title>
+      <link>//localhost:1313/docs/compose/prices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/docs/compose/install-theme/</guid>
-      <description>Prerequisites First ensure that you have hugo installed.&#xA;You need a recent extended version (we recommend version 0.61 or later) of Hugo to do local builds and previews of sites (like this one) that uses this theme.&#xA;If you install from the release page, make sure to get the extended Hugo version, which supports sass; you may need to scroll down the list of releases to see it.&#xA;For comprehensive Hugo documentation, see gohugo.</description>
+      <guid>//localhost:1313/docs/compose/prices/</guid>
+      <description>The challenges offer the following The top ten performing teams will be invited to participate in a challenge paper. The top-5 teams can have up to 5 co-authors each, while the 6th to 10th place teams can have up to 3 co-authors each. In the paper, we will publish a substantial summary of the challenge results. Thank to the initiative of the BASIRA lab and in collaboration with MICCAI PRIME Workshop.</description>
     </item>
     <item>
-      <title>Organizers</title>
-      <link>//localhost:42769/docs/compose/first_page_mario/</link>
+      <title>👥 Organizers</title>
+      <link>//localhost:1313/docs/compose/organizer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/docs/compose/first_page_mario/</guid>
+      <guid>//localhost:1313/docs/compose/organizer/</guid>
       <description>(Alphabetical order) Team Organizers Technical Alireza Rezaei 1 2&#xA;Gwenolé Quellec 2&#xA;Mathieu Lamard 1 2&#xA;Mostafa El Habib Daho 1 2&#xA;Pierre-Henri Conze 3&#xA;Rachid Zeghlache 1 2&#xA;Medical Anas-Alexis Benyoussef 4&#xA;Béatrice Cochener 1 2 4&#xA;Thomas Monfort 4&#xA;Team Organizers Technical Leila Ryma Lazouni 5 Mohammed El Amine Lazouni 5 Zineb Aziza Elaouaber 5 6 Medical Sofiane Zehar 6&#xA;Karim Boukli Hacene 6&#xA;Univ Bretagne Occidentale, Brest, F-29200 France</description>
     </item>
     <item>
-      <title>Use Tina.io CMS</title>
-      <link>//localhost:42769/docs/compose/use-tina-cms/</link>
+      <title>📜 Rules</title>
+      <link>//localhost:1313/docs/compose/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/docs/compose/use-tina-cms/</guid>
-      <description>Do you prefer managing your site using a CMS? Or would you like to make it easier for someone (a non-techie, perhaps) in your team to make edits easily? If interested, follow along. Else, skip to the next section&#xA;Let&#39;s sync your site with Tina CMS.&#xA;Prerequisites !! Obviously you ought to have a github account. This is where your website source will live. Basically, Tina will read from github and write (commit) to your github repo.</description>
+      <guid>//localhost:1313/docs/compose/rules/</guid>
+      <description>Participation policy&#xA;There several policies that participant are required to consider in order to be included in the competition:&#xA;All final submissions should be in the form of docker containers and follow the provided template provided by the organizers to be tested successfully. Only fully automated methods are acceptable for participation in this challenge as the submission is in the form of docker containers. It is not possible to submit manual annotations or interactive methods.</description>
     </item>
     <item>
-      <title>Content organization</title>
-      <link>//localhost:42769/docs/compose/organize-content/</link>
+      <title>Task 2</title>
+      <link>//localhost:1313/docs/compose/task2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/docs/compose/organize-content/</guid>
-      <description>This theme is primarily meant for documentation.&#xA;Documentation By default, the theme will look for all your documentation content within the docs directory.&#xA;However, if you would like to have your docs content across multiple directories, please list those directories inside config/_default/params.toml under docSections like so:&#xA;... docSections = [&amp;#34;docs&amp;#34;, &amp;#34;tutorials&amp;#34;] ... Unlike other regular pages, the documentation pages will have a left sidebar. This sidebar will list links to all the pages in the documentation pages.</description>
+      <guid>//localhost:1313/docs/compose/task2/</guid>
+      <description>The second task focuses on 2D slices level. The goal is to predict the future evolution within 3 months with close monitoring of patients that are enrolled in an anti-VEGF treatments plan.&#xA;To participate to the challenge register using this link</description>
     </item>
     <item>
-      <title>Shortcodes</title>
-      <link>//localhost:42769/docs/compose/shortcodes/</link>
+      <title> 🔎 Evaluation and Ranking</title>
+      <link>//localhost:1313/docs/compose/evaluation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/docs/compose/shortcodes/</guid>
-      <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.&#xA;Why shortcodes? While markdown is sufficient to produce simple pages, it&#39;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.&#xA;This way, you can side step complex html and css boilerplate in your content files.&#xA;Sometimes, the shortcode will wrap content, sometimes it won&#39;t. When content is wrapped, a closing shortcode tag is needed.</description>
+      <guid>//localhost:1313/docs/compose/evaluation/</guid>
+      <description>Evaluation We will use a single metric per task to determine the performance of submitted results. To access the evaluation code that we will use in the challenge, take a look at our GitHub page. For task 1 The following metrics will be used in the leader board for both phase of task 1&#xA;F1-score, Specificity, Rk-correlation coefficient (RkC) For task 2 The following metrics will be used in the leader board for both phase of task 2</description>
     </item>
     <item>
-      <title>Search Function</title>
-      <link>//localhost:42769/docs/compose/search/</link>
+      <title>📃 Challenge papers</title>
+      <link>//localhost:1313/docs/compose/challenge_paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/docs/compose/search/</guid>
-      <description>Firstly, ensure you have these lines inside your hugo.toml file&#xA;1[outputs] 2 home = [&amp;#34;HTML&amp;#34;, &amp;#34;RSS&amp;#34;,&amp;#34;JSON&amp;#34;] Compose implements Fuse js or Algolia to enable search functionality. By default Fuse is applied. Algolia can be enabled by adding this settings to config/_default/params.toml file&#xA;1# search 2[search] 3on = true 4global = false 5[search.algolia] 6enable = false # if false search will default to fusejs 7id = &amp;#34;Q40WQQX84U&amp;#34; # Application ID 8index = &amp;#34;compose&amp;#34; # Index name 9key = &amp;#34;da87401a458102ec6bbd6cc5e5cf8d95&amp;#34; # Search-Only API Key Both search engines will display results using the same UI.</description>
+      <guid>//localhost:1313/docs/compose/challenge_paper/</guid>
+      <description>Challenge papers To ensure transparency and reproducibility, we require participants to submit a brief method description alongside their final test set results. This description should follow the Springer Lecture Notes in Computer Science (LNCS) format. An Overleaf template is available template to facilitate this process.&#xA;The paper description should focus on the key steps involved in developing your submitted approach. Here are some recommended elements to include:&#xA;Introduction Method Results Link to public code repository </description>
     </item>
     <item>
-      <title>Shortcodes Applied</title>
-      <link>//localhost:42769/docs/compose/shortcodes-example/</link>
+      <title>🗂️ Data</title>
+      <link>//localhost:1313/docs/compose/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/docs/compose/shortcodes-example/</guid>
-      <description>Blocks, columns &amp;amp; buttons 1{{&amp;lt; block &amp;#34;grid-2&amp;#34; &amp;gt;}} 2{{&amp;lt; column &amp;gt;}} 3#### Coumn 1 4 5Lorem ipsum dolor sit amet, 6... 7 8{{&amp;lt; button &amp;#34;https://github.com/onweru/compose&amp;#34; &amp;#34;Download Theme&amp;#34; &amp;gt;}} 9 10{{&amp;lt; /column &amp;gt;}} 11{{&amp;lt; column &amp;gt;}} 12 13&amp;lt;!-- generates 👇 --&amp;gt; Coumn 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <guid>//localhost:1313/docs/compose/data/</guid>
+      <description>Data source(s) characteristics Imaging data was acquired with a Spectralis OCT device (Heidelberg Engineering). B-scan definition was 496x1024 pixels; the number of B-scans per C-scan was patient dependent (typically 49 B- scans). Consecutive examinations were registered using the Spectralis follow-up option. The data was exported in XML+bitmap format using the Spectralis software version 6.9.4.0. Data was collected at the Ophthalmology department of Brest University Hospital (France). All patients are followed-up for monitoring and treatment of vascular AMD.</description>
     </item>
     <item>
-      <title>Mermaid</title>
-      <link>//localhost:42769/docs/compose/mermaid/</link>
+      <title>Task 1</title>
+      <link>//localhost:1313/docs/compose/task1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/docs/compose/mermaid/</guid>
-      <description>Mermaid is library that helps you generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown.&#xA;With compose theme, you can use mermaid using a custom shortcode as follows:&#xA;Sequence Diagrams Snippet&#xA;1{{&amp;lt; mermaid &amp;gt;}} 2sequenceDiagram 3 participant Alice 4 participant Bob 5 Alice-&amp;gt;&amp;gt;John: Hello John, how are you? 6 loop Healthcheck 7 John-&amp;gt;&amp;gt;John: Fight against hypochondria 8 end 9 Note right of John: Rational thoughts&amp;lt;br/&amp;gt;prevail... 10 John--&amp;gt;&amp;gt;Alice: Great!</description>
+      <guid>//localhost:1313/docs/compose/task1/</guid>
+      <description>Two tasks will be addressed in the challenge: The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens. To participate to the challenge register using this link</description>
     </item>
     <item>
-      <title>Graphs, charts &amp; dynamic tables</title>
-      <link>//localhost:42769/docs/compose/graphs-charts-tables/</link>
+      <title>Important Dates</title>
+      <link>//localhost:1313/docs/compose/important_date/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/docs/compose/graphs-charts-tables/</guid>
-      <description>Using chart js library you can display data you have stored in a csv file as a pie chart, bar graph or doughnut chart.&#xA;At this point if you want to display data from a json or yaml file, you would need to convert it into csv first. Else the template will error out.&#xA;Once you have a csv file, you display the charts as follows:&#xA;Show a pie, doughnut &amp;amp; bar chart at once Firstly define the data you want to display from the front matter:</description>
+      <guid>//localhost:1313/docs/compose/important_date/</guid>
+      <description>Important Dates The following information outlines a proposed timeline for the challenge, subject to adjustments based on the MICCAI 2024 schedule and the organizers&#39; assessment to guarantee the quality of the challenge.&#xA;Registration Period:&#xA;April 1, 2024 - July 10, 2024&#xA;Release of Training and Off-site Validation Data (Without Labels):&#xA;May 2, 2024&#xA;Off-site Result Submission Period:&#xA;May 2, 2024 - July 10, 2024&#xA;Announcement of Finalists:&#xA;July 11, 2024</description>
     </item>
     <item>
-      <title>Customize layouts &amp; components</title>
-      <link>//localhost:42769/docs/compose/customize/</link>
+      <title></title>
+      <link>//localhost:1313/docs/compose/announcement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/docs/compose/customize/</guid>
-      <description>Shortcodes modifiers These modifiers are classes you can use with shortcodes to customize the look and feel of your layouts and components.&#xA;Grid modifier space grid-2 2 columns grid-3 3 columns grid-4 4 columns Spacing modifier space mt-1 1.5rem top margin mt-2 3rem top margin mt-3 4.5rem top margin mt-4 6rem top margin use pt-1 ~ pt-4 for top padding&#xA;modifier space mb-1 1.5rem bottom margin mb-2 3rem bottom margin mb-3 4.</description>
-    </item>
-    <item>
-      <title>Leverage Github actions</title>
-      <link>//localhost:42769/docs/compose/github-actions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:42769/docs/compose/github-actions/</guid>
-      <description>This theme ships with 2 github actions inside the exampleSite folder:&#xA;AWS CI Algolia CI AWS CI This helps you to autodeploy your hugo website from github to an AWS s3 bucket. Set the secrets in the action accordingly and voila.&#xA;Algolia CI This action will automatically update your algolia search index. No extra npm manual setup will be needed.&#xA;These actions are customizable to fire off under your specified set of circumstances.</description>
+      <guid>//localhost:1313/docs/compose/announcement/</guid>
+      <description>Comming soon ! Stay tuned</description>
     </item>
   </channel>
 </rss>
