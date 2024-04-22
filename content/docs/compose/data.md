@@ -42,6 +42,26 @@ For each pair of matched B-scans, the annotator had to assign one of the followi
 6.  _**Persistent activity (improved)**_ 
 7.  _**Activity disappearance.**_
 
+
+
+
+While the annotations were first disign to be used this way. After some discussion and round of review we have decided to transform the annotation for the tasks.To make the problem less difficult we have reduced to four class the first task. And three class for the  
+
+For evolution assessment between two consecutives examination (Task 1), the following fo classes are defined:
+*      <REDUCED: 0>: <ELIMINATED: 1> or <PERSISTENT_REDUCED: 2>
+*      <STABLE: 1>: <INACTIVE: 0> or <PERSISTENT_STABLE: 3>
+*      <WORSENED: 2>: <PERSISTENT_WORSENED: 4> or <APPEARED: 6>
+*      <OTHER: 3> class is defined for <ININTERPRETABLE: -1> and <APPEARED_AND_ELIMINATED: 5>.
+*      
+
+
+For the prediction of the evolution within 3 months (Task 2), the following fo classes are defined:
+*      <REDUCED: 0>: <ELIMINATED: 1> or <PERSISTENT_REDUCED: 2>
+*      <STABLE: 1>: <INACTIVE: 0> or <PERSISTENT_STABLE: 3>
+*      <WORSENED: 2>: <PERSISTENT_WORSENED: 4> or <APPEARED: 6>
+*     
+
+
 5 patients (from the training set) were used to train the annotators. After annotating these 5 patients: 1) annotations were compared by the challenge organizers and presented to the annotators, 2) the organizers discussed their annotation strategy with each other and 3) they were given the opportunity to revise their annotations. Next, they annotated the remaining 131 patients independently.
 
 Both annotators are ophthalmologists (retina specialists) with at least two years of experience in vascular AMD patient monitoring. Annotations from both human graders will not be merged. Agreement between both annotations will be used as a baseline to assess the agreement between an algorithm and a human grader.

@@ -1,6 +1,6 @@
 
 +++
-title = "🏆 Prices"
+title = "🏆 Prizes"
 weight = 11
 description = """
 This page tells you how to get started with the Compose theme.
@@ -18,4 +18,4 @@ This page tells you how to get started with the Compose theme.
 
 * * *
 
-![](https://rumc-gcorg-p-public.s3.amazonaws.com/i/2024/04/05/BASIRA_PRIME.png)
+![](/../../../images/sponsors.png)
