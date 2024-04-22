@@ -26,14 +26,14 @@
       <link>//localhost:1313/docs/compose/task1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/compose/task1/</guid>
-      <description>Two tasks will be addressed in the challenge: The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens. To participate to the challenge register using this link</description>
+      <description>TASK 1: Classify evolution between two pairs of 2-D slices from two consecutive 2D OCT acquisitions. The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens. For evolution assessment between two consecutives examination (Task 1), the following fo classes are defined.</description>
     </item>
     <item>
       <title>2️⃣🎯 Task 2</title>
       <link>//localhost:1313/docs/compose/task2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/compose/task2/</guid>
-      <description>The second task focuses on 2D slices level. The goal is to predict the future evolution within 3 months with close monitoring of patients that are enrolled in an anti-VEGF treatments plan.&#xA;To participate to the challenge register using this link</description>
+      <description>TASK 2: Prediction of evolution within 3 mounts of AMD on OCT 2D slices for planning treatment anti-VEGF. The second task focuses on 2D slices level. The goal is to predict the future evolution within 3 months with close monitoring of patients that are enrolled in an anti-VEGF treatments plan. For the prediction of the evolution within 3 months (Task 2), the following fo classes are defined:&#xA;REDUCED: 0 = ELIMINATED: 1 or PERSISTENT_REDUCED: 2 STABLE: 1 = INACTIVE: 0 or PERSISTENT_STABLE: 3 WORSENED: 2 = PERSISTENT_WORSENED: 4 or APPEARED: 6 Like it is illustrated we provide to participants along side with the OCT for each visit an localizers and some clinical data.</description>
     </item>
     <item>
       <title>📃 Challenge papers</title>
@@ -50,10 +50,10 @@
       <description>(Alphabetical order) Team Organizers Technical Alireza Rezaei 1 2&#xA;Gwenolé Quellec 2&#xA;Mathieu Lamard 1 2&#xA;Mostafa El Habib Daho 1 2&#xA;Pierre-Henri Conze 3&#xA;Rachid Zeghlache 1 2&#xA;Medical Anas-Alexis Benyoussef 4&#xA;Béatrice Cochener 1 2 4&#xA;Thomas Monfort 4&#xA;Team Organizers Technical Leila Ryma Lazouni 5 Mohammed El Amine Lazouni 5 Zineb Aziza Elaouaber 5 6 Medical Sofiane Zehar 6&#xA;Karim Boukli Hacene 6&#xA;Univ Bretagne Occidentale, Brest, F-29200 France</description>
     </item>
     <item>
-      <title>🏆 Prices</title>
-      <link>//localhost:1313/docs/compose/prices/</link>
+      <title>🏆 Prizes</title>
+      <link>//localhost:1313/docs/compose/prizes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/compose/prices/</guid>
+      <guid>//localhost:1313/docs/compose/prizes/</guid>
       <description>The challenges offer the following awards The top ten performing teams will be invited to participate in a challenge paper. The top-5 teams can have up to 5 co-authors each, while the 6th to 10th place teams can have up to 3 co-authors each. In the paper, we will publish a substantial summary of the challenge results. Thank to the initiative of the BASIRA lab and in collaboration with MICCAI PRIME Workshop.</description>
     </item>
     <item>

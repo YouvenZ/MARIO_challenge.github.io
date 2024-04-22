@@ -21,7 +21,7 @@
   <meta itemprop="name" content="🗂️ Data">
   <meta itemprop="description" content=" ">
   <meta itemprop="dateModified" content="2024-04-22T17:53:43+02:00">
-  <meta itemprop="wordCount" content="626"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="🗂️ Data">
+  <meta itemprop="wordCount" content="758"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="🗂️ Data">
 <meta name="twitter:description" content=" ">
 
 <link rel="stylesheet" href="//localhost:1313/css/styles.913fcb36a6d08184816dc66cc60d55cf4e33c59b1a408072f1321432368b3ed5596547fc8629f6e675f4cafcb7a72f0c8151b5a320206b6075e42cce13896fbc.css" integrity="sha512-kT/LNqbQgYSBbcZsxg1Vz04zxZsaQIBy8TIUMjaLPtVZZUf8hin25nX0yvy3py8MgVG1oyAga2B15CzOE4lvvA==">
@@ -53,10 +53,10 @@
   </div>
 		</li>
 		<li class="nav-item">
-			<a class="nav-link" href="//localhost:1313/docs/"><span>Sections</span></a>
+			<a class="nav-link" href="//localhost:1313/News/"><span>News</span></a>
 		</li>
 		<li class="nav-item">
-			<a class="nav-link" href="//localhost:1313/tutorials/"><span>Tutorials</span></a>
+			<a class="nav-link" href="//localhost:1313/docs/"><span>Sections</span></a>
 		</li>
 		<li class="nav-item nav_repo">
 			<a class="nav-link" href="https://github.com/YouvenZ/MARIO-Challenge-MICCAI-2024" target="_blank">
@@ -98,8 +98,8 @@
         <nav id="toc-challenge-papers"></nav>
         <h3 class="section_link"><a id="docs--organizers" href="//localhost:1313/docs/compose/organizer/">👥 Organizers</a></h3>
         <nav id="toc-organizers"></nav>
-        <h3 class="section_link"><a id="docs--prices" href="//localhost:1313/docs/compose/prices/">🏆 Prices</a></h3>
-        <nav id="toc-prices"></nav>
+        <h3 class="section_link"><a id="docs--prizes" href="//localhost:1313/docs/compose/prizes/">🏆 Prizes</a></h3>
+        <nav id="toc-prizes"></nav>
         <h3 class="section_link"><a id="docs--rules" href="//localhost:1313/docs/compose/rules/">📜 Rules</a></h3>
         <nav id="toc-rules"></nav>
         <h3 class="section_link"><a id="docs--important-dates" href="//localhost:1313/docs/compose/important_date/">🗓 Important Dates</a></h3>
@@ -150,6 +150,43 @@ the bottom).</p>
 <li><em><strong>Persistent activity (improved)</strong></em> </li>
 <li><em><strong>Activity disappearance.</strong></em></li>
 </ol>
+<p>While the annotations were first disign to be used this way. After some discussion and round of review we have decided to transform the annotation for the tasks.To make the problem less difficult we have reduced to four class the first task. And three class for the</p>
+<p>For evolution assessment between two consecutives examination (Task 1), the following fo classes are defined:</p>
+<ul>
+<li>
+<pre><code> &lt;REDUCED: 0&gt;: &lt;ELIMINATED: 1&gt; or &lt;PERSISTENT_REDUCED: 2&gt;
+</code></pre>
+</li>
+<li>
+<pre><code> &lt;STABLE: 1&gt;: &lt;INACTIVE: 0&gt; or &lt;PERSISTENT_STABLE: 3&gt;
+</code></pre>
+</li>
+<li>
+<pre><code> &lt;WORSENED: 2&gt;: &lt;PERSISTENT_WORSENED: 4&gt; or &lt;APPEARED: 6&gt;
+</code></pre>
+</li>
+<li>
+<pre><code> &lt;OTHER: 3&gt; class is defined for &lt;ININTERPRETABLE: -1&gt; and &lt;APPEARED_AND_ELIMINATED: 5&gt;.
+</code></pre>
+</li>
+<li></li>
+</ul>
+<p>For the prediction of the evolution within 3 months (Task 2), the following fo classes are defined:</p>
+<ul>
+<li>
+<pre><code> &lt;REDUCED: 0&gt;: &lt;ELIMINATED: 1&gt; or &lt;PERSISTENT_REDUCED: 2&gt;
+</code></pre>
+</li>
+<li>
+<pre><code> &lt;STABLE: 1&gt;: &lt;INACTIVE: 0&gt; or &lt;PERSISTENT_STABLE: 3&gt;
+</code></pre>
+</li>
+<li>
+<pre><code> &lt;WORSENED: 2&gt;: &lt;PERSISTENT_WORSENED: 4&gt; or &lt;APPEARED: 6&gt;
+</code></pre>
+</li>
+<li></li>
+</ul>
 <p>5 patients (from the training set) were used to train the annotators. After annotating these 5 patients: 1) annotations were compared by the challenge organizers and presented to the annotators, 2) the organizers discussed their annotation strategy with each other and 3) they were given the opportunity to revise their annotations. Next, they annotated the remaining 131 patients independently.</p>
 <p>Both annotators are ophthalmologists (retina specialists) with at least two years of experience in vascular AMD patient monitoring. Annotations from both human graders will not be merged. Agreement between both annotations will be used as a baseline to assess the agreement between an algorithm and a human grader.</p>
 <h2 id="data-pre-processing-methods-characteristics">Data pre-processing method(s) characteristics</h2>

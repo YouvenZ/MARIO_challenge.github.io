@@ -11,7 +11,7 @@ title = "Projects"
 {{< block "grid-2" >}}
 {{< column >}}
 
-# 🕹️ 🍄 Monitoring Amd Progression In Oct - MICCAI Challenge 2024
+# 🕹️ 🍄 Monitoring Age-related Macular Degeneration Progression In Optical Coherence Tomography (MARIO) - MICCAI Challenge 2024
 
 <!-- Compose is a lean `Hugo` documentation theme, inspired by [forestry.io](https://forestry.io/docs/welcome/). -->
 

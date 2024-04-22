@@ -21,7 +21,7 @@
   <meta itemprop="name" content="1️⃣🎯 Task 1">
   <meta itemprop="description" content=" ">
   <meta itemprop="dateModified" content="2024-04-22T17:53:43+02:00">
-  <meta itemprop="wordCount" content="56"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="1️⃣🎯 Task 1">
+  <meta itemprop="wordCount" content="165"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="1️⃣🎯 Task 1">
 <meta name="twitter:description" content=" ">
 
 <link rel="stylesheet" href="//localhost:1313/css/styles.913fcb36a6d08184816dc66cc60d55cf4e33c59b1a408072f1321432368b3ed5596547fc8629f6e675f4cafcb7a72f0c8151b5a320206b6075e42cce13896fbc.css" integrity="sha512-kT/LNqbQgYSBbcZsxg1Vz04zxZsaQIBy8TIUMjaLPtVZZUf8hin25nX0yvy3py8MgVG1oyAga2B15CzOE4lvvA==">
@@ -53,10 +53,10 @@
   </div>
 		</li>
 		<li class="nav-item">
-			<a class="nav-link" href="//localhost:1313/docs/"><span>Sections</span></a>
+			<a class="nav-link" href="//localhost:1313/News/"><span>News</span></a>
 		</li>
 		<li class="nav-item">
-			<a class="nav-link" href="//localhost:1313/tutorials/"><span>Tutorials</span></a>
+			<a class="nav-link" href="//localhost:1313/docs/"><span>Sections</span></a>
 		</li>
 		<li class="nav-item nav_repo">
 			<a class="nav-link" href="https://github.com/YouvenZ/MARIO-Challenge-MICCAI-2024" target="_blank">
@@ -98,8 +98,8 @@
         <nav id="toc-challenge-papers"></nav>
         <h3 class="section_link"><a id="docs--organizers" href="//localhost:1313/docs/compose/organizer/">👥 Organizers</a></h3>
         <nav id="toc-organizers"></nav>
-        <h3 class="section_link"><a id="docs--prices" href="//localhost:1313/docs/compose/prices/">🏆 Prices</a></h3>
-        <nav id="toc-prices"></nav>
+        <h3 class="section_link"><a id="docs--prizes" href="//localhost:1313/docs/compose/prizes/">🏆 Prizes</a></h3>
+        <nav id="toc-prizes"></nav>
         <h3 class="section_link"><a id="docs--rules" href="//localhost:1313/docs/compose/rules/">📜 Rules</a></h3>
         <nav id="toc-rules"></nav>
         <h3 class="section_link"><a id="docs--important-dates" href="//localhost:1313/docs/compose/important_date/">🗓 Important Dates</a></h3>
@@ -122,10 +122,18 @@
 </aside>
 
   <main class="content">
-    <h1>1️⃣🎯 Task 1</h1><h3 id="two-tasks-will-be-addressed-in-the-challenge">Two tasks will be addressed in the challenge:</h3>
+    <h1>1️⃣🎯 Task 1</h1><h1 id="task-1-classify-evolution-between-two-pairs-of-2-d-slices-from-two-consecutive-2d-oct-acquisitions">TASK 1: Classify evolution between two pairs of 2-D slices from two consecutive 2D OCT acquisitions.</h1>
 <ol>
-<li>The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens.<img src="https://rumc-gcorg-p-public.s3.amazonaws.com/i/2024/04/05/mario_task_1_gray_bg.png"></li>
+<li>The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens.<img src="/../../../images/mario_task_1_gray_bg.png"></li>
 </ol>
+<p>For evolution assessment between two consecutives examination (Task 1), the following fo classes are defined.</p>
+<ul>
+<li>REDUCED: 0 = ELIMINATED: 1 or PERSISTENT_REDUCED: 2</li>
+<li>STABLE: 1  = INACTIVE: 0 or PERSISTENT_STABLE: 3</li>
+<li>WORSENED: 2 = PERSISTENT_WORSENED: 4 or APPEARED: 6</li>
+<li>OTHER: 3 =  ININTERPRETABLE: -1 and APPEARED_AND_ELIMINATED: 5.</li>
+</ul>
+<p>Like it is illustrated we provide to participants along side with the OCT for each visit an localizers and some clinical data. We encourage the participants to develop multi-modal method to takle this task. <strong>It should be noted that the minimun input expected for your algoritm development should be at least the OCT B-scan.</strong></p>
 <p>To participate to the challenge register using this <a href="/">link</a></p>
 
     <div class="pager">

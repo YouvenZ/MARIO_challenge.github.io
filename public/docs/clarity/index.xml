@@ -12,14 +12,14 @@
       <link>//localhost:1313/docs/clarity/preliminary_phase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/clarity/preliminary_phase/</guid>
-      <description>Blog with tagging and category options&#xA;Deeplinks&#xA;Native Image Lazy Loading&#xA;Customizable (see config)&#xA;Dark Mode (with UI controls for user preference setting)&#xA;Toggleable table of contents&#xA;Flexible image configuration&#xA;Logo alignment&#xA;Mobile support with configurable menu alignment&#xA;Syntax Highlighting&#xA;Rich code block functions including:&#xA;Copy to clipboard Toggle line wrap (dynamic) Toggle line numbers Language label Toggle block expansion/contraction (dynamic) To put it all in context, here is a preview showing all functionality.</description>
+      <description>Please follow the instruction that are provided in our github. You can click on the top right github button to access or directly go to this link https://github.com/YouvenZ/MARIO-Challenge-MICCAI-2024</description>
     </item>
     <item>
       <title>Final phase</title>
       <link>//localhost:1313/docs/clarity/final_phase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/clarity/final_phase/</guid>
-      <description></description>
+      <description>More details on this phase will come soon.</description>
     </item>
   </channel>
 </rss>

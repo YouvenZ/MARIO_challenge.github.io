@@ -1,25 +1,9 @@
-#  menu items
-#[[main]]
-#  name = "Blog"
-#  weight = 5
-#  url = "blog/"
-
-#[[main]]
-#  name = "About"
-#  weight = 6
-#  url = "about/"  
-
 [[main]]
   name = "Sections"
   weight = 2
   url = "docs/"
 
 [[main]]
-  name = "Tutorials"
-  weight = 2
-  url = "tutorials/"
-
-# [[main]]
-#   name = "Blog"
-#   weight = 4
-#   url = "blog/"
+  name = "News"
+  weight = 1
+  url = "News/"
