@@ -37,7 +37,7 @@ For this special edition of MICCAI, we are proud to provide participants the cha
 
 
 
-##### _**Part of [MICCAI](https://conferences.miccai.org/2024/en/) 2024 challenge**_ 
+##### _**Part of [MICCAI 2024](https://conferences.miccai.org/2024/en/)  challenge**_ 
 
 ![](https://conferences.miccai.org/2024/files/images/layout/en/miccai2023-logo.png)
 
@@ -69,10 +69,10 @@ All challenge submissions are in the form of a docker container, which means tha
 
 ### Two tasks will be addressed in the challenge:
 
-1.  The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens.![](https://rumc-gcorg-p-public.s3.amazonaws.com/i/2024/04/05/mario_task_1_gray_bg.png)
+1.  The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens.![](../../../mario_task_1_gray_bg.png)
 2.  The second task focuses on 2D slices level. The goal is to predict the future evolution within 3 months with close monitoring of patients that are enrolled in an anti-VEGF treatments plan. 
     
-    ![](https://rumc-gcorg-p-public.s3.amazonaws.com/i/2024/04/05/mario_task_2_gray_bg_jV1BuQd.png)
+    ![](../../../mario_task_2_gray_bg.png)
     
 
 ![](https://cdn-icons-png.flaticon.com/64/7793/7793417.png)To sum up
@@ -83,7 +83,7 @@ All challenge submissions are in the form of a docker container, which means tha
 ![](https://cdn-icons-png.flaticon.com/64/8555/8555318.png) Institutions and partners
 -------------------------------------------------------------------------------------
 
-![](https://rumc-gcorg-p-public.s3.amazonaws.com/i/2024/04/05/partners.png)  
+![](../../../images/partners.png)  
 
   
 

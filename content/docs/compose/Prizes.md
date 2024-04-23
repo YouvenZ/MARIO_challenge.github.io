@@ -18,4 +18,4 @@ This page tells you how to get started with the Compose theme.
 
 * * *
 
-![](/../../../images/sponsors.png)
+![](../../../images/sponsors.png)
