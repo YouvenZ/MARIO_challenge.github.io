@@ -5,26 +5,29 @@
     <loc>//localhost:1313/about/</loc>
     <lastmod>2024-04-12T15:06:25+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/news/</loc>
-    <lastmod>2024-04-22T20:04:25+02:00</lastmod>
+    <loc>//localhost:1313/news/example/summary/</loc>
+    <lastmod>2024-04-23T12:40:38+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/news/example/</loc>
-    <lastmod>2024-04-22T20:04:25+02:00</lastmod>
+    <lastmod>2024-04-23T12:40:38+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/compose/</loc>
     <lastmod>2024-04-22T17:53:43+02:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/news/</loc>
+    <lastmod>2024-04-23T12:40:38+02:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/docs/compose/data/</loc>
-    <lastmod>2024-04-22T17:53:43+02:00</lastmod>
+    <lastmod>2024-04-23T12:40:38+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/compose/evaluation/</loc>
     <lastmod>2024-04-22T17:53:43+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/compose/task1/</loc>
-    <lastmod>2024-04-22T17:53:43+02:00</lastmod>
+    <lastmod>2024-04-23T12:40:38+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/compose/task2/</loc>
-    <lastmod>2024-04-22T17:53:43+02:00</lastmod>
+    <lastmod>2024-04-23T12:40:38+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/compose/challenge_paper/</loc>
     <lastmod>2024-04-22T17:53:43+02:00</lastmod>
@@ -36,15 +39,16 @@
     <lastmod>2024-04-22T17:53:43+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/compose/prizes/</loc>
+    <lastmod>2024-04-22T20:08:25+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/compose/rules/</loc>
     <lastmod>2024-04-22T17:53:43+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/clarity/preliminary_phase/</loc>
-    <lastmod>2024-04-22T17:53:43+02:00</lastmod>
+    <lastmod>2024-04-22T20:08:25+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/clarity/final_phase/</loc>
-    <lastmod>2024-04-22T17:53:43+02:00</lastmod>
+    <lastmod>2024-04-22T20:08:25+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/compose/important_date/</loc>
     <lastmod>2024-04-22T17:53:43+02:00</lastmod>

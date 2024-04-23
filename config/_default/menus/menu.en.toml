@@ -1,9 +1,9 @@
 [[main]]
   name = "Sections"
-  weight = 2
+  weight = 1
   url = "docs/"
 
 [[main]]
   name = "News"
-  weight = 1
-  url = "News/"
+  weight = 2
+  url = "news/"

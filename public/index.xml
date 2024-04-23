@@ -4,9 +4,16 @@
     <title>MARIO challenge on MARIO-MICCAI 2024</title>
     <link>//localhost:1313/</link>
     <description>Recent content in MARIO challenge on MARIO-MICCAI 2024</description>
-    <generator>Hugo 0.125.2</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Challenge summary</title>
+      <link>//localhost:1313/news/example/summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/example/summary/</guid>
+      <description>Once the challenge has ended. We will showcase the best solution on the website. And include the name and github solution of the winners.</description>
+    </item>
     <item>
       <title>🗂️ Data</title>
       <link>//localhost:1313/docs/compose/data/</link>

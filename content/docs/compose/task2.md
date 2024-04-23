@@ -10,7 +10,7 @@ description = """ """
 
 2.  The second task focuses on 2D slices level. The goal is to predict the future evolution within 3 months with close monitoring of patients that are enrolled in an anti-VEGF treatments plan. 
 
-![](/../../../images/mario_task_2_gray_bg.png)
+![](/../../images/mario_task_2_gray_bg.png)
     
 
 For the prediction of the evolution within 3 months (Task 2), the following fo classes are defined:
