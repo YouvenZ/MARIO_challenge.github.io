@@ -68,7 +68,7 @@
       <link>//localhost:1313/docs/compose/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/compose/rules/</guid>
-      <description>Participation policy&#xA;There several policies that participant are required to consider in order to be included in the competition:&#xA;All final submissions should be in the form of docker containers and follow the provided template provided by the organizers to be tested successfully. Only fully automated methods are acceptable for participation in this challenge as the submission is in the form of docker containers. It is not possible to submit manual annotations or interactive methods.</description>
+      <description>Participation policy There several policies that participant are required to consider in order to be included in the competition:&#xA;All final submissions should be in the form of docker containers and follow the provided template provided by the organizers to be tested successfully. Only fully automated methods are acceptable for participation in this challenge as the submission is in the form of docker containers. It is not possible to submit manual annotations or interactive methods.</description>
     </item>
     <item>
       <title>Preliminary phase</title>
