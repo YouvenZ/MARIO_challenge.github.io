@@ -7,9 +7,6 @@ This page tells you how to get started with the Compose theme.
 """
 +++
 
-
-# Participation policy ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsPohwRGZFBss78wHjXBpTIMgxGPhCYtWJg&usqp) 
-
 ----------------------------------------------------------------------------------------------------------------------------
 
 There several policies that participant are required to consider in order to be included in the competition:

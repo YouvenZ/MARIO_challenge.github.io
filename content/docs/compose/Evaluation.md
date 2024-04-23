@@ -6,10 +6,6 @@ description = """ """
 
 
 
-### ![](https://cdn-icons-png.flaticon.com/512/1349/1349366.png) Evaluation
-
-##### We will use a single metric per task to determine the performance of submitted results. To access the evaluation code that we will use in the challenge, take a look at our [GitHub page](https://github.com/YouvenZ/MARIO-Challenge-MICCAI-2024).
-
 ### For task 1
 
 The following metrics will be used in the leader board for both phase of task 1  
@@ -25,7 +21,6 @@ The following metrics will be used in the leader board for both phase of task 2
 *   F1-score
 *   Specificity
 *   Rk-correlation coefficient (RkC)  
-    
 *   Quadratic weighted Kappa
     
 
