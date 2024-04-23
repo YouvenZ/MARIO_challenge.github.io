@@ -6,7 +6,7 @@ description = """ """
 
 # TASK 1: Classify evolution between two pairs of 2-D slices from two consecutive 2D OCT acquisitions.
 
-1.  The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens.![](/../../images/mario_task_1_gray_bg.png)
+1.  The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens.![](../../../images/mario_task_1_gray_bg.png)
 
 For evolution assessment between two consecutives examination (Task 1), the following fo classes are defined.
 - REDUCED: 0 = ELIMINATED: 1 or PERSISTENT_REDUCED: 2
