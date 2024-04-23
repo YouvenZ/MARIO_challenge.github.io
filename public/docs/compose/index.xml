@@ -19,7 +19,7 @@
       <link>//localhost:1313/docs/compose/evaluation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/compose/evaluation/</guid>
-      <description>Evaluation We will use a single metric per task to determine the performance of submitted results. To access the evaluation code that we will use in the challenge, take a look at our GitHub page. For task 1 The following metrics will be used in the leader board for both phase of task 1&#xA;F1-score, Specificity, Rk-correlation coefficient (RkC) For task 2 The following metrics will be used in the leader board for both phase of task 2</description>
+      <description>For task 1 The following metrics will be used in the leader board for both phase of task 1&#xA;F1-score, Specificity, Rk-correlation coefficient (RkC) For task 2 The following metrics will be used in the leader board for both phase of task 2&#xA;F1-score Specificity Rk-correlation coefficient (RkC) Quadratic weighted Kappa Ranking method(s) Only participants with comprehensive results for the task will appear in the final ranking. In the final ranking, task 2 will be given a higher weight as it is the most challenging and clinically useful task.</description>
     </item>
     <item>
       <title>1️⃣🎯 Task 1</title>
@@ -61,7 +61,7 @@
       <link>//localhost:1313/docs/compose/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/compose/rules/</guid>
-      <description>Participation policy There several policies that participant are required to consider in order to be included in the competition:&#xA;All final submissions should be in the form of docker containers and follow the provided template provided by the organizers to be tested successfully. Only fully automated methods are acceptable for participation in this challenge as the submission is in the form of docker containers. It is not possible to submit manual annotations or interactive methods.</description>
+      <description>There several policies that participant are required to consider in order to be included in the competition:&#xA;All final submissions should be in the form of docker containers and follow the provided template provided by the organizers to be tested successfully. Only fully automated methods are acceptable for participation in this challenge as the submission is in the form of docker containers. It is not possible to submit manual annotations or interactive methods.</description>
     </item>
     <item>
       <title>🗓 Important Dates</title>
