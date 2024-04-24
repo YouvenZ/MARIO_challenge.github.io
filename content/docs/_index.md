@@ -1,4 +1,4 @@
-To get familiar with the challenge and the submission process we have provided some explainations in the sections.
+Visit 👇👇👇 to come come play at MARIO with us 🕹️ 🍄 .
 
 
 {{< tip >}}

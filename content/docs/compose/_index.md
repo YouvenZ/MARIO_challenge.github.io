@@ -3,6 +3,5 @@ title = "Main sections"
 weight = 1
 +++
 
-Welcome to the Compose theme user guide! This guide shows you how to get started creating technical documentation sites using Compose, including site customization and how to use Compose's blocks and templates.
+To get familiar with the challenge and the submission process we have provided some explainations in the sections.
 
-{{< button "./install-theme/" "Get started now" >}}
