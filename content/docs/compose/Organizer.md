@@ -70,4 +70,4 @@ This page tells you how to get started with the Compose theme.
 
 
 
-If you have any question related to the challenge please contact this email address [rachid.zeghlache@univ-brest.fr](https://mario.grand-challenge.org/Organizers/rachid.zeghlache@univ-brest.fr) or directly address your issue via the [Forum](https://grand-challenge.org/forums/forum/mario-631/) associated with this challenge.
+If you have any question related to the challenge please contact this email address [rachid.zeghlache@univ-brest.fr](rachid.zeghlache@univ-brest.fr) or directly address your issue via the associated with the challenges.
