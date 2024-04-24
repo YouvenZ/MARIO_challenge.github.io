@@ -11,4 +11,4 @@ To get familiar with the challenge and the submission process we have provided s
 After the visit the link to register to the challenge you need to the following in order to enter the challenge:
 
 
-![image](../../images/tuto_register.png)
+![image](../images/tuto_register.png)
