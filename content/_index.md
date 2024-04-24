@@ -16,7 +16,9 @@ title = "Projects"
 <!-- Compose is a lean `Hugo` documentation theme, inspired by [forestry.io](https://forestry.io/docs/welcome/). -->
 
 {{< tip "note" >}}
-Welcome to the MARIO website 👋, MARIO was accepted for the edition of MICCAI challenge 2024 🚀.
+Welcome to the MARIO website 👋, MARIO was accepted for the edition of MICCAI challenge 2024 🚀. The challenge is hosted on the Codabench plateform. 
+- For the first task {{< button "https://www.codabench.org/competitions/2852/" "🚀 click here" >}}
+- For the second task {{< button "https://www.codabench.org/competitions/2851/" "🚀 click here" >}}
 
  {{< /tip >}}
 
