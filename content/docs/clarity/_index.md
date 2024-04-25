@@ -20,4 +20,4 @@ For both task there is two phases:
   
 **_The final phase_**: In this phase we ask the selected participants to submits their algorithm packed in docker format. You can find more details to how perform this in our github [page](https://github.com/YouvenZ/MARIO-Challenge-MICCAI-2024/).
 
-We wish you the best of luck in your submission ! If you have encounter any issues in the submission process  do not hesitate to raise an issue in the [Forum](https://grand-challenge.org/forums/forum/mario-631/) or to directly contact us at the following email adresse **_rachid.zeghlache@univ-brest.fr._**
+We wish you the best of luck in your submission ! If you have encounter any issues in the submission process  do not hesitate to raise an issue in the github of challenge [page](https://github.com/YouvenZ/MARIO-Challenge-MICCAI-2024/issues) or to directly contact us at the following email adresse **_rachid.zeghlache@univ-brest.fr._**

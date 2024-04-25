@@ -13,7 +13,7 @@ There several policies that participant are required to consider in order to be 
 
 *   All final submissions should be in the form of docker containers and follow the provided template provided by the organizers to be tested successfully.
 *   Only **fully automated methods** are acceptable for participation in this challenge as the submission is in the form of docker containers. It is not possible to submit manual annotations or interactive methods.
-*   Submissions will be ranked solely based on their performance on the final test set and according to the criteria explained in the [evaluation](https://mario.grand-challenge.org/Evaluation/) page.
+*   Submissions will be ranked solely based on their performance on the final test set and according to the criteria explained in the [evaluation](https://youvenz.github.io/MARIO_challenge.github.io/docs/compose/evaluation/) page.
 *   Using pre-trained models on general purpose datasets (like ImageNet) is allowed.
 *   Use of **external** **data** for model development is not **permitted**.
 *   Writing a technical paper for final submission is compulsory, otherwise the submission will not be considered.

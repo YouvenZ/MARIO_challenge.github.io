@@ -38,8 +38,8 @@ This page tells you how to get started with the Compose theme.
 ### Technical
 
 *   Leila Ryma Lazouni [5](#fn5)
-*   Mohammed El Amine Lazouni [5](https://mario.grand-challenge.org/Organizers/update/#fn5)
-*   Zineb Aziza Elaouaber [5](https://mario.grand-challenge.org/Organizers/update/#fn5) [6](https://mario.grand-challenge.org/Organizers/update/#fn6)
+*   Mohammed El Amine Lazouni [5](#fn5)
+*   Zineb Aziza Elaouaber [5](#fn5) [6](#fn6)
 
 ### Medical
 
