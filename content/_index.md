@@ -71,7 +71,7 @@ All challenge submissions are in the form of a docker container, which means tha
 
 ### Two tasks will be addressed in the challenge:
 
-1.  The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens.![](./images/mario_task_2_gray_bg.png)
+1.  The first task focuses on pairs of 2D slices (B-scans) from two consecutive OCT acquisitions. The goal is to classify the evolution between these two slices (before and after), which clinicians typically examine side by side on their screens.![](./images/mario_task_1_gray_bg.png)
 2.  The second task focuses on 2D slices level. The goal is to predict the future evolution within 3 months with close monitoring of patients that are enrolled in an anti-VEGF treatments plan. 
     
 ![](./images/mario_task_2_gray_bg.png)
