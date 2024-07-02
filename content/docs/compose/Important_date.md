@@ -18,15 +18,15 @@ The following information outlines a proposed timeline for the challenge, subjec
 
 ![](https://cdn-icons-png.flaticon.com/32/11725/11725639.png) Off-site Result Submission Period:
 
-**May 2, 2024 - July 10, 2024**
+**May 2, 2024 - July 31, 2024**
 
 ![](https://cdn-icons-png.flaticon.com/32/1378/1378644.png) Announcement of Finalists:
 
-**July 11, 2024**
+**August 1, 2024**
 
-![](https://cdn-icons-png.flaticon.com/32/11518/11518896.png) Report (6-page Summary) and Docker Container Submission Period (For Finalists):
+![](https://cdn-icons-png.flaticon.com/32/11518/11518896.png) Report (at least 6-page Summary) and Docker Container Submission Period (For Finalists):
 
-**July 11, 2024 - September 15, 2024**
+**August 1, 2024 - September 15, 2024**
 
 ![](https://cdn-icons-png.flaticon.com/32/3463/3463098.png)  Release of Challenge Results:
 
