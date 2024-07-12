@@ -72,7 +72,6 @@ Data pre-processing method(s) characteristics
     
 *   Bitmap images (BMP) are converted to PNG to save space.
 *   Two consecutives 3-D volumes are registered.
-*   An automatic retina segmentation is provided for each B-scan. Participants are free to use them.
 
 ### Sources of error
 
