@@ -13,5 +13,12 @@ The paper description should focus on the key steps involved in developing your 
 
 *   Introduction
 *   Method   
+	*   Pre-processing
+	*   Proposed method
+	*   Pre-training (if any)
+	*   Post-processing (if any)
 *   Results
+*   Discussion
 *   Link to public code repository
+
+You can submit one paper for both tasks, or separate papers for each task. The choice is yours.
