@@ -22,3 +22,9 @@ The paper description should focus on the key steps involved in developing your 
 *   Link to public code repository
 
 You can submit one paper for both tasks, or separate papers for each task. The choice is yours.
+
+
+- Deadline for submission: 01/09/2024
+- Decision (acceptance or rebuttal): 07/09/2024
+- Camera ready submission: 15/09/2024
+
