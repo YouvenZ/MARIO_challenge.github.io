@@ -36,9 +36,6 @@ For this special edition of MICCAI, we are proud to provide participants the cha
 {{< /block >}}
 
 
-
-
-
 ##### _**Part of [MICCAI 2024](https://conferences.miccai.org/2024/en/)  challenge**_ 
 
 ![](https://conferences.miccai.org/2024/files/images/layout/en/miccai2023-logo.png)
@@ -82,8 +79,44 @@ All challenge submissions are in the form of a docker container, which means tha
 
  In summary, the first task aims to automate the initial step of the analysis (useful for decision support) and the second task aims to automate the complete analysis process (useful for autonomous AI).
 
-![](https://cdn-icons-png.flaticon.com/64/8555/8555318.png) Institutions and partners
+
+### Challenge Paper Proceedings
+
+#### 📢 Call for Papers
+
+Thanks to the initiative of the [BASIRA](https://basira-lab.com/) lab and in collaboration with the [MICCAI PRIME](https://basira-lab.com/prime-miccai-2024/) Workshop, all teams that made it to the final phase will have the opportunity to have their challenge paper published in the International Workshop on Predictive Intelligence in Medicine. This is part of the book series: Lecture Notes in Computer Science (LNCS). For more details, please refer to the following [page](https://youvenz.github.io/MARIO_challenge.github.io/docs/compose/challenge_paper/). To ensure transparency and reproducibility, we require participants to submit a brief method description alongside their validation test set results. An Overleaf template is available [here](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj) to facilitate this process. Challenge papers should adhere to the MICCAI 2024 paper submission guidelines: [MICCAI 2024 paper submission guidelines](https://conferences.miccai.org/2024/en/PAPER-SUBMISSION.html). The paper description should focus on the key steps involved in developing your submitted approach. Here are some recommended elements to include:
+
+#### Submission Guidelines
+
+- **Formatting Requirements:** Papers should follow the Springer Lecture Notes in Computer Science (LNCS) format. An Overleaf template is available [here](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj).
+- **Paper Length:** Adhere to MICCAI 2024 paper submission guidelines.
+- **Submission System:** Submit your papers via the Conference Management Toolkit (CMT) website [here](https://cmt3.research.microsoft.com/MARIO2024/Submission/Index).
+
+{{< tip "note" >}}
+- **Paper Content:** Include the following sections:
+  - Introduction
+  - Method (Pre-processing, Proposed method, Pre-training, Post-processing)
+  - Results
+  - Discussion
+  - Link to public code repository
+{{< /tip >}}
+
+#### Author Guidelines
+
+- **Presentation Format:** Papers for both tasks can be submitted as one combined paper or as separate papers.
+- **Registration Requirements:** All accepted authors must register by the specified deadlines.
+- **Publication:** Accepted papers will be published in the International Workshop on Predictive Intelligence in Medicine (PRIME) as part of the Lecture Notes in Computer Science (LNCS) series.
+
+#### 🗓 Important Dates
+
+{{< tip >}}
+- Deadline for paper submission: **01/09/2024**
+- Decision about paper (acceptance or rebuttal): **07/09/2024**
+- Camera-ready paper: **15/09/2024**
+{{< /tip >}}
+
 -------------------------------------------------------------------------------------
+![](https://cdn-icons-png.flaticon.com/64/8555/8555318.png) Institutions and partners
 
 ![](./images/partners.png)  
 
