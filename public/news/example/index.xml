@@ -12,7 +12,7 @@
       <link>//localhost:1313/news/example/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/news/example/summary/</guid>
-      <description>Once the challenge has ended. We will showcase the best solution on the website. And include the name and github solution of the winners.</description>
+      <description>&lt;p&gt;Once the challenge has ended. We will showcase the best solution on the website. And include the name and github solution of the winners.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

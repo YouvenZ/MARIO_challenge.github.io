@@ -110,9 +110,9 @@ Thanks to the initiative of the [BASIRA](https://basira-lab.com/) lab and in col
 #### 🗓 Important Dates
 
 {{< tip >}}
-- Deadline for paper submission: **01/09/2024**
-- Decision about paper (acceptance or rebuttal): **07/09/2024**
-- Camera-ready paper: **15/09/2024**
+- Deadline for paper submission: **01/09/2024** 11:59PM (pacific time)
+- Decision about paper (acceptance or rebuttal): **13/11/2024** 11:59PM (pacific time)
+- Camera-ready paper: **20/09/2024** 11:59PM (pacific time)
 {{< /tip >}}
 
 -------------------------------------------------------------------------------------
