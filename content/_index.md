@@ -145,13 +145,6 @@ To submit your final camera-ready paper, please follow these instructions carefu
 Failure to follow these guidelines may result in delays in processing your submission.
 
 
-
-
-
-
-
-
-
 -------------------------------------------------------------------------------------
 ![](https://cdn-icons-png.flaticon.com/64/8555/8555318.png) 
 ### Institutions and partners
