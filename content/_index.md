@@ -115,10 +115,51 @@ Thanks to the initiative of the [BASIRA](https://basira-lab.com/) lab and in col
 - Camera-ready paper: **20/09/2024** 11:59PM (pacific time)
 {{< /tip >}}
 
+
+
+
+
+#### Camera-Ready Paper Submission Guidelines
+
+To submit your final camera-ready paper, please follow these instructions carefully:
+
+{{< tip >}}
+1. **Zip File Requirements:**
+   - Your zip file should include:
+     - The final PDF of your camera-ready paper.
+     - All source files necessary to regenerate the final PDF.  
+       - For **LaTeX users**, include `.tex`, `.bib`, all figures, and any other required files.
+       - For **Word users**, include the `.docx` file.  
+     - Name the main file using your submission ID number (e.g., `16.tex` or `16.docx`).
+
+2. **Copyright Form:**
+   - Include the signed PDF of the **MARIO LNCS Copyright Form** in your submission.
+
+3. **Paper Length:**  
+   The paper should be between 8 and 12.5 pages.
+
+4. **Final Submission:**  
+   Ensure that the copyright forms are filled out correctly before submission.  
+   Upload a **single** zip file (not .rar) containing everything, using your paper ID for the file name (e.g., `MARIO-32.zip`).
+{{< /tip >}}
+Failure to follow these guidelines may result in delays in processing your submission.
+
+
+
+
+
+
+
+
+
 -------------------------------------------------------------------------------------
-![](https://cdn-icons-png.flaticon.com/64/8555/8555318.png) Institutions and partners
+![](https://cdn-icons-png.flaticon.com/64/8555/8555318.png) 
+### Institutions and partners
 
 ![](./images/partners.png)  
+
+
+
 
   
 

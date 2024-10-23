@@ -11,6 +11,9 @@ To ensure transparency and reproducibility, we require participants to submit a 
 
 The paper description should focus on the key steps involved in developing your submitted approach.  Here are some recommended elements to  include:
 
+
+{{< tip >}}
+
 *   Introduction
 *   Method   
 	*   Pre-processing
@@ -23,8 +26,13 @@ The paper description should focus on the key steps involved in developing your 
 
 You can submit one paper for both tasks, or separate papers for each task. The choice is yours.
 
+{{< /tip >}}
 
-- Deadline for submission: 01/09/2024
-- Decision (acceptance or rebuttal): 07/09/2024
-- Camera ready submission: 15/09/2024
+**Important dates**
+{{< tip "note" >}}
+
+- Deadline for paper submission: **01/09/2024** 11:59PM (pacific time)
+- Decision about paper (acceptance or rebuttal): **13/11/2024** 11:59PM (pacific time)
+- Camera-ready paper: **20/09/2024** 11:59PM (pacific time)
+{{< /tip >}}
 
