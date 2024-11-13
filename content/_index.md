@@ -127,13 +127,16 @@ To submit your final camera-ready paper, please follow these instructions carefu
 1. **Zip File Requirements:**
    - Your zip file should include:
      - The final PDF of your camera-ready paper.
+     - Include summary of your solution based on the template (download [here](https://github.com/YouvenZ/MARIO-Challenge-MICCAI-2024/tree/main/summary)) in .tex and PDF    
      - All source files necessary to regenerate the final PDF.  
        - For **LaTeX users**, include `.tex`, `.bib`, all figures, and any other required files.
        - For **Word users**, include the `.docx` file.  
      - Name the main file using your submission ID number (e.g., `16.tex` or `16.docx`).
+     - Name the summary using your submission ID (summary_16.pdf, summary_16.tex)
+
 
 2. **Copyright Form:**
-   - Include the signed PDF of the **MARIO LNCS Copyright Form** in your submission.
+   - Include the signed PDF of the **MARIO LNCS Copyright Form** in your submission. (download using this [link](https://docs.google.com/document/d/1qZzIjVCz1fGwGWcT9bY-fzDVzoHcTmIf1NCxP9XNVNE/edit?usp=sharing))
 
 3. **Paper Length:**  
    The paper should be between 8 and 12.5 pages.
