@@ -1,6 +1,6 @@
 +++
 description = "Proceedings from the MICCAI 2024 challenges DIAMOND and MARIO, focusing on the image-based prediction of retinal disease progression using artificial intelligence. This volume includes state-of-the-art approaches addressing Diabetic Macular Edema and Age-related Macular Degeneration, highlighting patient-specific predictive modeling using multimodal retinal imaging data."
-title = "Proceedings: Image-Based Prediction of Retinal Disease Progression"
+title = "📚 Proceedings: Image-Based Prediction of Retinal Disease Progression"
 weight = 15
 +++
 
